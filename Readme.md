@@ -1,2 +1,2 @@
 This is Readme File
-created for selecting and earnig github badges
+created for selecting and earning github badges
