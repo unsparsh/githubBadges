@@ -1,3 +1,3 @@
 ###This is Readme File
-created for selecting and earning github badges
-Created by Sparsh Singh Chundawat
+created for Earning github badges
+Author Name : Sparsh Singh Chundawat
